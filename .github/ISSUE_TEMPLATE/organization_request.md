@@ -10,6 +10,9 @@ assignees: ''
 **ソフトウェアの略称**
 (例) toppers_foo
 
+**希望するレポジトリの名称**
+(例) foo
+
 **リポジトリのURL（移譲する場合）**
 (例) https://github.com/hogehoge/toppers_foo
 
