@@ -12,7 +12,8 @@
 
 |略称・リンク|開発者（ハンドルネーム可）|概要|備考|
 |:--|:--|:--|:--|
-| [asp3_in_zig](https://github.com/toppers/asp3_in_zig) | 高田広章（名古屋大学） | TOPPERS/ASP3 Kernel written in Zig Programming Language |   |
+| [asp3_in_zig](https://github.com/toppers/asp3_in_zig) | 高田広章（名古屋大学） | Zig言語で記述したTOPPERS/ASP3カーネル |   |
+| [mROS](https://github.com/tlk-emb/mROS) | 京都大学 高木研究室 | 組込みデバイス向けROS 1ノード軽量実行環境 | [asp-gr_peach_gcc-mbed](https://github.com/ncesnagoya/asp-gr_peach_gcc-mbed)を利用 |
 <!--下記をコピペして追加してください
 |略称・リンク|開発者（ハンドルネーム可）|概要|備考|
 -->
