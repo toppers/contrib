@@ -1,16 +1,16 @@
 ---
 name: organization_request
-about: TOPPERSのGitHub Organizationにリポジトリを移譲したい場合は，このテンプレートをご利用ください。
+about: TOPPERSのGitHub Organizationにリポジトリを作成または移譲したい場合は、このテンプレートをご利用ください。
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**略称**
+**ソフトウェアの略称**
 (例) toppers_foo
 
-**リポジトリのURL**
+**リポジトリのURL（移譲する場合）**
 (例) https://github.com/hogehoge/toppers_foo
 
 **リポジトリの管理者（および組織）**
