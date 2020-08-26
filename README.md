@@ -52,7 +52,7 @@
 
 ### TOPPERSのGitHub Organizationにレポジトリを作成したい（または移譲したい）
 
-[TOPPERSプロジェクトのGitHub Organization](https://github.com/toppers)を取得・運用しています。このOrganizationにリポジトリを作成したい，または[リポジトリを移譲したい](https://docs.github.com/ja/github/administering-a-repository/transferring-a-repository)場合を想定しています。
+[TOPPERSプロジェクトのGitHub Organization](https://github.com/toppers)を取得・運用しています。このOrganizationにリポジトリを作成したい、または[リポジトリを移譲したい](https://docs.github.com/ja/github/administering-a-repository/transferring-a-repository)場合を想定しています。
 
 作成または移譲を希望される場合は、[本リポジトリIssueのorganization_requestテンプレート](https://github.com/toppers/contrib/issues/new?template=organization_request.md)にて、下記の情報をお知らせください。
 
