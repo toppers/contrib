@@ -1,4 +1,4 @@
-# TOPPERS Contributed Software GitHub
+# TOPPERS Contributed Software on GitHub
 
 本ページは、[TOPPERSプロジェクト](https://toppers.jp/)から公式リリースされているもの以外で、TOPPERSプロジェクトに関するオープンソースソフトウェアを共有するためのものです。   
 
