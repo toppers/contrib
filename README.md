@@ -12,8 +12,7 @@
 
 |略称・リンク|開発者（ハンドルネーム可）|概要|備考|
 |:--|:--|:--|:--|
-| [asp3_in_zig](https://github.com/toppers/asp3_in_zig) | hiroakitakada | TOPPERS/ASP3 Kernel written in Zig Programming Language |   |
-| [asp3_wo_tecs](https://github.com/ertlnagoya/asp3_wo_tecs) | HONDA | TOPPERS/ASP3カーネルを，TECSなしで使えるように変更したもの |  |
+| [asp3_in_zig](https://github.com/toppers/asp3_in_zig) | 高田広章（名古屋大学） | TOPPERS/ASP3 Kernel written in Zig Programming Language |   |
 <!--下記をコピペして追加してください
 |略称・リンク|開発者（ハンドルネーム可）|概要|備考|
 -->
@@ -35,14 +34,14 @@
 
 ## ソフトウェア・リポジトリの登録方法
 
-### 「ソフトウェア一覧」に自身の管理リポジトリを追加したい
+### 「ソフトウェア一覧」に自身が管理するリポジトリを追加したい
 
 リポジトリの管理権限を保持したまま、ソフトウェアの管理リポジトリを一覧に追加する場合です。
 
 本リポジトリをForkし、このファイル（README.md）の「`## ソフトウェア一覧`」の表を編集してください。  
 その後、Pull Requestを作成し、下記の情報をお知らせください。
 
-- 略称
+- ソフトウェアの略称
 - リポジトリのURL
 - リポジトリの管理者（および組織）
 - TOPPERSの会員区分
@@ -51,17 +50,18 @@
 
 問題ないと判断しましたら、該当するPull RequestをMergeし、ソフトウェア一覧に追加されます。
 
-### TOPPERSのGitHub Organizationに移譲したい
+### TOPPERSのGitHub Organizationにレポジトリを作成したい（または移譲したい）
 
-[TOPPERSプロジェクトのGitHub Organization](https://github.com/toppers)を取得・運用しています。このOrganizationに[リポジトリを移譲したい](https://docs.github.com/ja/github/administering-a-repository/transferring-a-repository)場合を想定しています。
+[TOPPERSプロジェクトのGitHub Organization](https://github.com/toppers)を取得・運用しています。このOrganizationにリポジトリを作成したい，または[リポジトリを移譲したい](https://docs.github.com/ja/github/administering-a-repository/transferring-a-repository)場合を想定しています。
 
-移譲を希望される場合は、[本リポジトリIssueのorganization_requestテンプレート](https://github.com/toppers/contrib/issues/new?template=organization_request.md)にて、下記の情報をお知らせください。
+作成または移譲を希望される場合は、[本リポジトリIssueのorganization_requestテンプレート](https://github.com/toppers/contrib/issues/new?template=organization_request.md)にて、下記の情報をお知らせください。
 
-- 略称
-- リポジトリのURL
+- ソフトウェアの略称
+- 希望するレポジトリの名称
+- リポジトリのURL（移譲する場合）
 - リポジトリの管理者（および組織）
 - TOPPERSの会員区分
 - リポジトリ・ソフトウェアの説明
 - 補足事項・連絡事項
 
-問題ないと判断しましたら、Issueを作成されたアカウントをOrganizationのメンバに招待します。その後、リポジトリを移譲いただき、本ファイルの「ソフトウェア一覧」を編集してください。
+問題ないと判断しましたら、Issueを作成されたアカウントをOrganizationのメンバに招待します。その後、リポジトリを作成または移譲いただき、本ファイルの「ソフトウェア一覧」を編集してください。
