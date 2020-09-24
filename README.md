@@ -14,6 +14,7 @@
 |:--|:--|:--|:--|
 | [asp3_in_zig](https://github.com/toppers/asp3_in_zig) | 高田広章（名古屋大学） | Zig言語で記述したTOPPERS/ASP3カーネル |   |
 | [mROS](https://github.com/tlk-emb/mROS) | 京都大学 高木研究室 | 組込みデバイス向けROS 1ノード軽量実行環境 | [asp-gr_peach_gcc-mbed](https://github.com/ncesnagoya/asp-gr_peach_gcc-mbed)を利用 |
+| [TOPPERS BASE PLATFORM でAzure IoTに接続するサンプルプログラム](https://github.com/h7ga40/ToppersBasePlatformRV_AzureIoT) | 長島宏明（コアーズ株式会社） | [TOPPERS BASE PLATFORM](https://www.toppers.jp/edu-baseplatform.html)のRISC-V版を[Sipeed MAIX BIT](https://jp.seeedstudio.com/Sipeed-MAix-BiT-for-RISC-V-AI-IoT-1-p-2873.html)で動作させます | Wifi通信用に[ESP-WROOM-32D](https://www.switch-science.com/catalog/3156/)が必要 |
 <!--下記をコピペして追加してください
 |略称・リンク|開発者（ハンドルネーム可）|概要|備考|
 -->
