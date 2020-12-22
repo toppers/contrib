@@ -67,3 +67,7 @@
 - 補足事項・連絡事項
 
 問題ないと判断しましたら、Issueを作成されたアカウントをOrganizationのメンバに招待します。その後、リポジトリを作成または移譲いただき、本ファイルの「ソフトウェア一覧」を編集してください。
+
+## TOPPERSに関するQ&Aや情報交換の場
+
+TOPPERSに関するQ&Aや情報交換の場として，[TOPPERS Discussion](https://github.com/toppers/users/discussions)をテスト運用しています。お気軽にご活用ください。
