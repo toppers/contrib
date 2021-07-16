@@ -70,4 +70,4 @@
 
 ## TOPPERSに関するQ&Aや情報交換の場
 
-TOPPERSに関するQ&Aや情報交換の場として，[TOPPERSユーザーズフォーラム](https://github.com/toppers/users-forum/discussions)をテスト運用しています。お気軽にご活用ください。
+TOPPERSに関するQ&Aや情報交換の場として，[TOPPERSユーザーズフォーラム](https://github.com/toppers/users-forum/discussions)を用意しています。お気軽にご活用ください。
